@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Rishi 👋
 
-<!--
-**hrishitprakash2-debug/hrishitprakash2-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI Automation Builder | Data Analytics Learner | n8n Workflows
 
-Here are some ideas to get you started:
+## About Me
+- Building AI automation systems using n8n
+- Learning Data Analytics and Power BI
+- Exploring OpenAI + WhatsApp automation
+- Interested in SaaS and workflow systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- SQL
+- Power BI
+- n8n
+- Docker
+- APIs
+- Google Sheets Automation
+- Git & GitHub
+
+## Current Projects
+- AI Gym WhatsApp Automation System
+- CRM Workflow Automation
+- Data Analytics Dashboards
+
+## Connect With Me
+- LinkedIn:https://www.linkedin.com/in/hrishit-prakash-7666a5328/
+- Email: hrishitprakash2@gmail.com
