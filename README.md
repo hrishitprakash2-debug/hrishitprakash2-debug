@@ -1,28 +1,40 @@
-# Hi, I'm Rishi 👋
+# Hrishit Prakash
 
-🚀 AI Automation Builder | Data Analytics Learner | n8n Workflows
+**Data analytics — SQL · Python (pandas) · Excel · Power BI**
 
-## About Me
-- Building AI automation systems using n8n
-- Learning Data Analytics and Power BI
-- Exploring OpenAI + WhatsApp automation
-- Interested in SaaS and workflow systems
+Final-year BBA (2023–2026), Delhi. I'm building an analyst portfolio the honest way: take a real dataset, clean it in code, answer one specific question, and show the working so anyone can re-run it.
 
-## Skills
-- Python
-- SQL
-- Power BI
-- n8n
-- Docker
-- APIs
-- Google Sheets Automation
-- Git & GitHub
+Open to data analytics / business analyst internships and entry-level roles — India or remote.
 
-## Current Projects
-- AI Gym WhatsApp Automation System
-- CRM Workflow Automation
-- Data Analytics Dashboards
+---
 
-## Connect With Me
-- LinkedIn:https://www.linkedin.com/in/hrishit-prakash-7666a5328/
-- Email: hrishitprakash2@gmail.com
+### Featured work
+
+**[yc-startup-jobs-analysis](https://github.com/hrishitprakash2-debug/yc-startup-jobs-analysis)** — 229 open roles across 87 startups, analysed in pandas.
+Parsed three different salary formats into a single annualised LPA scale, then measured what the market actually discloses: 63% of roles publish pay, Engineering/AI is 49% of all roles and also the least price-transparent function (53%), and only 9 of 229 roles are internships. Reproducible from the raw CSVs committed in the repo.
+
+```
+Role mix · pay transparency · salary distribution · seniority mix · data-quality audit
+```
+
+---
+
+### Toolkit
+
+| | |
+|---|---|
+| **SQL** | joins, aggregations, window functions, CTEs |
+| **Python** | pandas for cleaning and reshaping, matplotlib for charts, scripts that rerun end-to-end |
+| **Excel** | pivot tables, Power Query, lookups, dashboards |
+| **Power BI** | dashboards — building this out |
+| **Other** | Git, Google Sheets automation, n8n workflows |
+
+### Background
+
+- **BBA, 2023–2026** — final year
+- Previously built and shipped client websites and workflow automations (KAKX Arena, Hipsters Cafe, WhatsApp-based gym CRM) — archived, but it's where the habit of finishing things came from
+- Currently working through SQL and Python on real datasets rather than tutorials
+
+---
+
+**Contact** · [LinkedIn](https://www.linkedin.com/in/hrishit-prakash-7666a5328/) · hrishit4280@gmail.com
