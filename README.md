@@ -2,7 +2,7 @@
 
 Aspiring Data Analyst | SQL · Python · Pandas · Excel · Power BI
 
-Final-year BBA (2023–2026), Delhi. Open to data analytics / business analyst internships and entry-level roles — India or remote.
+Final-year BBA (2024–2027), Delhi. Open to data analytics / business analyst internships and entry-level roles — India or remote.
 
 ---
 
